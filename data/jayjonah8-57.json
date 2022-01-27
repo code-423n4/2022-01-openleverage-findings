@@ -1,0 +1,9 @@
+{
+  "contest": 72,
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "1",
+  "title": "no validation checks in ControllerV1.sol initialize function()",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2022-01-openleverage-findings/issues/57"
+}
