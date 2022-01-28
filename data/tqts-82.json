@@ -1,0 +1,9 @@
+{
+  "contest": 72,
+  "handle": "tqts",
+  "address": "0x5Ac56257422bF362cec13a4367F86dd0a340f79a",
+  "risk": "G",
+  "title": "Gas saving by caching state variables",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2022-01-openleverage-findings/issues/82"
+}
