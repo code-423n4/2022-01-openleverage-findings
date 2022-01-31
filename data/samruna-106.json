@@ -1,0 +1,9 @@
+{
+  "contest": 72,
+  "handle": "samruna",
+  "address": "0x32A9A2a64bD23e69730839A341431d2fF7C039Bc",
+  "risk": "1",
+  "title": "Unused function parameters",
+  "issueId": 106,
+  "issueUrl": "https://github.com/code-423n4/2022-01-openleverage-findings/issues/106"
+}
