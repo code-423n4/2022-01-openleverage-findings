@@ -1,0 +1,9 @@
+{
+  "contest": 72,
+  "handle": "samruna",
+  "address": "0x9aDA3Ba6A2C82152564dF7A22238E286E10e0A6B",
+  "risk": "3",
+  "title": "endTime can be before startTime",
+  "issueId": 160,
+  "issueUrl": "https://github.com/code-423n4/2022-01-openleverage-findings/issues/160"
+}
