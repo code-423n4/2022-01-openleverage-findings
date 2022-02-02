@@ -1,0 +1,9 @@
+{
+  "contest": 72,
+  "handle": "sirhashalot",
+  "address": "0x30cfB3B033dF25673b35Dc21a77329059d57a69b",
+  "risk": "1",
+  "title": "Non-standard safe ERC20 functions",
+  "issueId": 264,
+  "issueUrl": "https://github.com/code-423n4/2022-01-openleverage-findings/issues/264"
+}
