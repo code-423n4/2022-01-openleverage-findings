@@ -1,0 +1,9 @@
+{
+  "contest": 72,
+  "handle": "Fitraldys",
+  "address": "0xf533f2AB9460DB8d665DDe79773F20eCfB35f860",
+  "risk": "G",
+  "title": "cheaper to change require to toSend",
+  "issueId": 235,
+  "issueUrl": "https://github.com/code-423n4/2022-01-openleverage-findings/issues/235"
+}
