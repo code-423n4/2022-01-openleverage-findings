@@ -1,0 +1,9 @@
+{
+  "contest": 72,
+  "handle": "jonah1005",
+  "address": "0xd7f69D59B6E8E6f3031B12f692d468bC88Ebdd97",
+  "risk": "2",
+  "title": "Bad actor may steal deposit return when liquidating a trade",
+  "issueId": 195,
+  "issueUrl": "https://github.com/code-423n4/2022-01-openleverage-findings/issues/195"
+}
