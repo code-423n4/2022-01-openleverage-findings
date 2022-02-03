@@ -1,0 +1,9 @@
+{
+  "contest": 72,
+  "handle": "0v3rf10w",
+  "address": "0x4Dd980Ae601dB0a0856F3B7ABd6DD155Efa67b9D",
+  "risk": "1",
+  "title": "Missing zero checks at multiple places",
+  "issueId": 267,
+  "issueUrl": "https://github.com/code-423n4/2022-01-openleverage-findings/issues/267"
+}
